@@ -1,0 +1,409 @@
+[2021.11.22 09:18:13] [0000m.00s.016ms] [0] WELCOME
+[2021.11.22 09:18:13] [0000m.00s.018ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.22 09:18:13] [0000m.00s.018ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.22 09:18:13] [0000m.00s.018ms] [1] Base flow version [VX.2.7]
+[2021.11.22 09:18:13] [0000m.00s.018ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.22 09:18:13] [0000m.00s.018ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] Machine [DESKTOP-BQLJK8H]  IP [10.0.0.57,127.0.0.1]  User [18292]  PID [4824]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19043)]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] Current working dir [C:\PADS Projects\DxProjects\Diseño_Final_FRHR]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;E:\LabView\Shared\LabVIEW CLI;C:\Users\18292\AppData\Local\Microsoft\WindowsApps;D:\Programas\MENTOR\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\18292\AppData\Local\Programs\Microsoft VS Code\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] SDD_PLATFORM [win32]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.22 09:18:13] [0000m.00s.027ms] [2] S: Loading config files
+[2021.11.22 09:18:13] [0000m.00s.042ms] [1] Config file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\cdbsvr\Server.cfg] not found
+[2021.11.22 09:18:13] [0000m.00s.043ms] [3] S: Config loaded
+[2021.11.22 09:18:13] [0000m.00s.048ms] [0] S: Project path [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database] on file system [NTFS]
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\Diseño_Final_FRHR.prj] on file system [NTFS]
+[2021.11.22 09:18:13] [0000m.00s.049ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Single-user mode (auto)
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Event polling mode autodetection
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Started up automatically by iCDB Client: DESKTOP-BQLJK8H:18292:7788
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Auto close mode
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] S: Database ID [b662-6b54-a351-1d3b-6ad5-491c-ad54-9160-4d41-504f-df5e-6f09]
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] PathTranslator: BEGIN dumping
+[2021.11.22 09:18:13] [0000m.00s.049ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.22 09:18:13] [0000m.00s.050ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.22 09:18:13] [0000m.00s.050ms] [0] PathTranslator: END dumping
+[2021.11.22 09:18:13] [0000m.00s.050ms] [0] S: START
+[2021.11.22 09:18:13] [0000m.00s.050ms] [0] S: Server startup lock file created
+[2021.11.22 09:18:13] [0000m.00s.050ms] [0] S: Listening for client connections on port [10003]
+[2021.11.22 09:18:13] [0000m.00s.051ms] [0] S: Server network ID [DESKTOP-BQLJK8H:10.0.0.57,DESKTOP-BQLJK8H:10003]
+[2021.11.22 09:18:13] [0000m.00s.051ms] [0] S: Server GUID [1653-cec1-e15a-fe8c-5989-b91b-989b-9160-c590-504f-df5e-6f09]
+[2021.11.22 09:18:13] [0000m.00s.051ms] [0] S: Project GUID [b662-6b54-a351-1d3b-6ad5-491c-ad54-9160-4d41-504f-df5e-6f09]
+[2021.11.22 09:18:13] [0000m.00s.053ms] [0] S: Wrote data to server address file
+[2021.11.22 09:18:13] [0000m.00s.053ms] [0] S: Server startup lock file removed
+[2021.11.22 09:18:13] [0000m.00s.053ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\Diseño_Final_FRHR.prj]
+[2021.11.22 09:18:14] [0000m.00s.442ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.22 09:18:14] [0000m.00s.442ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.22 09:18:14] [0000m.00s.442ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.22 09:18:14] [0000m.00s.443ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.22 09:18:14] [0000m.00s.443ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.22 09:18:14] [0000m.00s.443ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.22 09:18:14] [0000m.00s.444ms] [0] S: Local disc access time: 53 us
+[2021.11.22 09:18:14] [0000m.00s.444ms] [0] S: File server access time: 59 us
+[2021.11.22 09:18:14] [0000m.00s.455ms] [0] Single file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\icdb.dat] size [267824 (261.5 kB)]
+[2021.11.22 09:18:14] [0000m.00s.455ms] [1] Single file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\icdb.dat] opened in read-write mode
+[2021.11.22 09:18:14] [0000m.00s.456ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.456ms] [0] Database GUARD OK: [267824]
+[2021.11.22 09:18:14] [0000m.00s.456ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] Database GUARD OK: [267824]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] Database GUARD OK: [267824]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] Database GUARD OK: [267824]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] Database GUARD OK: [267824]
+[2021.11.22 09:18:14] [0000m.00s.457ms] [0] SingleFile: [5e89-f4bf-2114-1ea4] SFI version check [1009] [1009]
+[2021.11.22 09:18:14] [0000m.00s.462ms] [0] SingleFile: [5e89-f4bf-2114-1ea4] Database SFI header has been read in [4ms 733us]
+[2021.11.22 09:18:14] [0000m.00s.468ms] [0] iCDB Server PI: Server & plugin session [163]
+[2021.11.22 09:18:14] [0000m.00s.468ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database]
+[2021.11.22 09:18:14] [0000m.00s.468ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database] opened
+[2021.11.22 09:18:14] [0000m.00s.539ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.22 09:18:14] [0000m.00s.539ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.22 09:18:14] [0000m.00s.583ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.22 09:18:14] [0000m.00s.588ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.22 09:18:14] [0000m.00s.588ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.22 09:18:14] [0000m.00s.588ms] [0] S: iCDB database loaded
+[2021.11.22 09:18:14] [0000m.00s.590ms] [0] S: Starting threads
+[2021.11.22 09:18:14] [0000m.00s.590ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.22 09:18:14] [0000m.00s.590ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.22 09:18:14] [0000m.00s.591ms] [0] IT: Session [164] for host [DESKTOP-BQLJK8H] user [18292] client type[0] clsvrPluginID[0] with process ID [7788] created
+[2021.11.22 09:18:14] [0000m.00s.594ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.22 09:18:14] [0000m.00s.598ms] [1] SC[164]: Registered sub-client [DxD] with ID [1] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.605ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-BQLJK8H] user [18292] with process ID [12592] created
+[2021.11.22 09:18:14] [0000m.00s.605ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.11.22 09:18:14] [0000m.00s.697ms] [1] CMT: There are [1] clients now: 164
+[2021.11.22 09:18:14] [0000m.00s.735ms] [1] SC[164]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.757ms] [1] SC[164]: Registered sub-client [SymbolEditor] with ID [3] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.761ms] [1] SC[164]: Registered sub-client [SelectionHolder] with ID [4] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.789ms] [1] SC[164]: Registered sub-client [Core::DesignListener-478937920-0] with ID [5] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.792ms] [1] SC[164]: Registered sub-client [BlockCacheDxD:478939072] with ID [6] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.792ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-22 09.18.14 - auto.zip] with GUID [a510-8f75-3510-0a92-6989-b91c-989b-9160-cd92-504f-df5e-6f09]
+[2021.11.22 09:18:14] [0000m.00s.793ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[0c4f-f26e-c243-b245-7ad5-491d-ad54-9160-c820-504f-df5e-6f09] CreationTime[Wednesday, November 17, 2021 01:40:55] Type[Autosave] Creator[iCDB Server (2021-11-16 21.40.54-6996)] ApplicationName[iCDB Server (2021-11-16 21.40.54-6996)] UserName[18292] MachineName[DESKTOP-BQLJK8H] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-16 21.40.55 - auto.zip] BackupFileSize[330175] Persistent[FALSE]
+[2021.11.22 09:18:14] [0000m.00s.793ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-16 21.40.55 - auto.zip] with GUID [0c4f-f26e-c243-b245-7ad5-491d-ad54-9160-c820-504f-df5e-6f09] removed
+[2021.11.22 09:18:14] [0000m.00s.794ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[a510-8f75-3510-0a92-6989-b91c-989b-9160-cd92-504f-df5e-6f09] CreationTime[Monday, November 22, 2021 13:18:14] Type[Autosave] Creator[iCDB Server (2021-11-22 09.18.13-4824)] ApplicationName[iCDB Server (2021-11-22 09.18.13-4824)] UserName[18292] MachineName[DESKTOP-BQLJK8H] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-22 09.18.14 - auto.zip] BackupFileSize[334200] Persistent[FALSE]
+[2021.11.22 09:18:14] [0000m.00s.795ms] [1] SC[164]: Registered sub-client [Core::NetFlatData-31812] with ID [7] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.851ms] [1] SC[164]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.856ms] [1] SC[164]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:14] [0000m.00s.858ms] [1] SC[164]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.513ms] [1] SC[164]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.518ms] [1] SC[164]: Registered sub-client [HdlProject] with ID [11] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.526ms] [1] SC[164]: Registered sub-client [Navigator] with ID [12] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.540ms] [1] SC[164]: Registered sub-client [OutputWindow] with ID [13] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.543ms] [1] SC[164]: Registered sub-client [PlaceDevice] with ID [14] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.672ms] [1] SC[164]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:17] [0000m.03s.675ms] [1] SC[164]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.320ms] [1] SC[164]: Registered sub-client [FFSSelListener] with ID [17] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.323ms] [1] SC[164]: Registered sub-client [SAE] with ID [18] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.337ms] [1] SC[164]: Registered sub-client [DxConstraints] with ID [19] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.339ms] [1] SC[164]: Registered sub-client [CCZAddin] with ID [20] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.342ms] [1] SC[164]: Registered sub-client [DxThumbnails] with ID [21] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.345ms] [1] SC[164]: Registered sub-client [MyParts] with ID [22] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:18] [0000m.05s.367ms] [1] SC[164]: Registered sub-client [PinsList] with ID [23] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.494ms] [1] SC[164]: Registered sub-client [toolboxes] with ID [24] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.542ms] [1] SC[164]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.546ms] [1] SC[164]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:677768496] with ID [26] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.607ms] [1] SC[164]: Registered sub-client [SheetConnectorsCacheDxD:1637587099] with ID [27] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.659ms] [1] SC[164]: Registered sub-client [NetsNamesCollectorDxD:1637587099] with ID [28] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.681ms] [1] SC[164]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.683ms] [1] SC[164]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.693ms] [1] SC[164]: Registered sub-client [xprob] with ID [31] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.747ms] [1] SC[164]: Registered sub-client [StartServerClient3a78] with ID [32] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:19] [0000m.05s.748ms] [1] SC[164]: UnRegistered sub-client [StartServerClient3a78] with ID [32] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:22] [0000m.08s.643ms] [1] SC[164]: Registered sub-client [ObjectHolder_725878000] with ID [33] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:22] [0000m.08s.648ms] [1] SC[164]: Registered sub-client [BlockCacheDxD:687679240] with ID [34] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:22] [0000m.08s.651ms] [1] SC[164]: Registered sub-client [GlobalNetAliasUpdater_725878312] with ID [35] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:22] [0000m.08s.654ms] [1] SC[164]: Registered sub-client [IcdbNetProcessorSubClientDxD:687418120] with ID [36] for session ID [164] host [DESKTOP-BQLJK8H] user [18292] process ID [7788]
+[2021.11.22 09:18:44] [0000m.30s.485ms] [0] DFAMT: File server access time: 62 us
+[2021.11.22 13:18:14] [0240m.00s.444ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-22 13.18.14 - auto.zip] with GUID [c50e-52ae-b651-51cb-6d0d-b91c-d0db-9160-cd92-504f-df5e-6f09]
+[2021.11.22 13:18:14] [0240m.00s.444ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[6b9c-4727-9b0c-d066-e442-5914-5425-9160-8142-504f-df5e-6f09] CreationTime[Wednesday, November 17, 2021 15:48:30] Type[Autosave] Creator[iCDB Server (2021-11-17 11.48.30-2140)] ApplicationName[iCDB Server (2021-11-17 11.48.30-2140)] UserName[18292] MachineName[DESKTOP-BQLJK8H] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-17 11.48.30 - auto.zip] BackupFileSize[331624] Persistent[FALSE]
+[2021.11.22 13:18:14] [0240m.00s.445ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-17 11.48.30 - auto.zip] with GUID [6b9c-4727-9b0c-d066-e442-5914-5425-9160-8142-504f-df5e-6f09] removed
+[2021.11.22 13:18:14] [0240m.00s.446ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[c50e-52ae-b651-51cb-6d0d-b91c-d0db-9160-cd92-504f-df5e-6f09] CreationTime[Monday, November 22, 2021 17:18:14] Type[Autosave] Creator[iCDB Server (2021-11-22 09.18.13-4824)] ApplicationName[iCDB Server (2021-11-22 09.18.13-4824)] UserName[18292] MachineName[DESKTOP-BQLJK8H] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\Diseño_Final_FRHR\ProjectBackup\backups\2021-11-22 13.18.14 - auto.zip] BackupFileSize[334936] Persistent[FALSE]
+[2021.11.22 14:21:41] [0303m.27s.995ms] [0] IT: Session [165] for host [DESKTOP-BQLJK8H] user [18292] client type[0] clsvrPluginID[0] with process ID [10352] created
+[2021.11.22 14:21:41] [0303m.27s.996ms] [1] SC[165]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [165] host [DESKTOP-BQLJK8H] user [18292] process ID [10352]
+[2021.11.22 14:21:41] [0303m.28s.039ms] [1] CMT: There are [2] clients now: 164, 165
+[2021.11.22 14:21:41] [0303m.28s.059ms] [1] SC[165]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [165] host [DESKTOP-BQLJK8H] user [18292] process ID [10352]
+[2021.11.22 14:21:41] [0303m.28s.148ms] [1] CMT: Removed client [165]
+[2021.11.22 14:21:41] [0303m.28s.148ms] [1] CMT: There are [1] clients now: 164
+[2021.11.22 14:21:57] [0303m.43s.797ms] [0] IT: Session [166] for host [DESKTOP-BQLJK8H] user [18292] client type[0] clsvrPluginID[0] with process ID [12104] created
+[2021.11.22 14:21:57] [0303m.43s.797ms] [1] SC[166]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [166] host [DESKTOP-BQLJK8H] user [18292] process ID [12104]
+[2021.11.22 14:21:57] [0303m.43s.827ms] [1] CMT: There are [2] clients now: 164, 166
+[2021.11.22 14:21:57] [0303m.43s.861ms] [1] SC[166]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [166] host [DESKTOP-BQLJK8H] user [18292] process ID [12104]
+[2021.11.22 14:21:57] [0303m.43s.938ms] [1] CMT: Removed client [166]
+[2021.11.22 14:21:57] [0303m.43s.938ms] [1] CMT: There are [1] clients now: 164
+[2021.11.22 19:14:33] [0596m.20s.333ms] [0] MWT: WM_QUERYENDSESSION
+[2021.11.22 19:14:33] [0596m.20s.333ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2021.11.22 19:14:33] [0596m.20s.333ms] [0] Removing server address file.
+[2021.11.22 19:14:33] [0596m.20s.340ms] [7] CST[164]: Trying to send command [06D8B190] of size [172]
+[2021.11.22 19:14:33] [0596m.20s.340ms] [7] CST[164]: Sent command [06D8B190]
+[2021.11.22 19:14:33] [0596m.20s.340ms] [7] CST[164]: Trying to send command [06D8B250] of size [47]
+[2021.11.22 19:14:33] [0596m.20s.340ms] [7] CST[164]: Sent command [06D8B250]
+[2021.11.22 19:14:33] [0596m.20s.341ms] [7] DST[1]: Trying to send command [06D8B0A0] of size [58]
+[2021.11.22 19:14:33] [0596m.20s.341ms] [7] DST[1]: Sent command [06D8B0A0]
+[2021.11.22 19:14:34] [0596m.20s.396ms] [0] S: Closing server
+[2021.11.22 19:14:34] [0596m.20s.396ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[1653-cec1-e15a-fe8c-5989-b91b-989b-9160-c590-504f-df5e-6f09] Command number[354371]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10003] # Status [Closing]]
+[2021.11.22 19:14:34] [0596m.20s.396ms] [3] IT: FREE
+[2021.11.22 19:14:34] [0596m.20s.396ms] [4] IT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.396ms] [4] IT: Empty client connection popped from the waiting queue
+[2021.11.22 19:14:34] [0596m.20s.396ms] [2] IT: STOP
+[2021.11.22 19:14:34] [0596m.20s.396ms] [3] ET: Suspend request
+[2021.11.22 19:14:34] [0596m.20s.400ms] [3] ET: Suspend request finished
+[2021.11.22 19:14:34] [0596m.20s.400ms] [2] SCL: Removing all clients
+[2021.11.22 19:14:34] [0596m.20s.400ms] [3] SC[164]: FREE
+[2021.11.22 19:14:34] [0596m.20s.400ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[1653-cec1-e15a-fe8c-5989-b91b-989b-9160-c590-504f-df5e-6f09] Command number[354372]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10003] # Client [Address[DESKTOP-BQLJK8H] User[18292] PID[7788] Session[164] Status[Active] Dead elapsed time sec[0] Version[2.207] Sub-clients[ ( Sub-client[Name[DxD] Id[1]], Sub-client[Name[TransactionRollbackSubClient] Id[2]], Sub-client[Name[SymbolEditor] Id[3]], Sub-client[Name[SelectionHolder] Id[4]], Sub-client[Name[Core::DesignListener-478937920-0] Id[5]], Sub-client[Name[BlockCacheDxD:478939072] Id[6]], Sub-client[Name[Core::NetFlatData-31812] Id[7]], Sub-client[Name[SystemDesignDll] Id[9]], Sub-client[Name[DesignSearcher2] Id[10]], Sub-client[Name[HdlProject] Id[11]], Sub-client[Name[Navigator] Id[12]], Sub-client[Name[OutputWindow] Id[13]], Sub-client[Name[PlaceDevice] Id[14]], Sub-client[Name[FFSearch_RBHost] Id[15]], Sub-client[Name[LocalSymbolsDataProvider] Id[16]], Sub-client[Name[FFSSelListener] Id[17]], Sub-client[Name[SAE] Id[18]], Sub-client[Name[DxConstraints] Id[19]], Sub-client[Name[CCZAddin] Id[20]], Sub-client[Name[DxThumbnails] Id[21]], Sub-client[Name[MyParts] Id[22]], Sub-client[Name[PinsList] Id[23]], Sub-client[Name[toolboxes] Id[24]], Sub-client[Name[IBDInstanceDialog] Id[25]], Sub-client[Name[ProjectIntegrationIcdbCacheDxD:677768496] Id[26]], Sub-client[Name[SheetConnectorsCacheDxD:1637587099] Id[27]], Sub-client[Name[NetsNamesCollectorDxD:1637587099] Id[28]], Sub-client[Name[PartReplaceUtils] Id[29]], Sub-client[Name[PartReplaceUtilsSelectionListener] Id[30]], Sub-client[Name[xprob] Id[31]], Sub-client[Name[ObjectHolder_725878000] Id[33]], Sub-client[Name[BlockCacheDxD:687679240] Id[34]], Sub-client[Name[GlobalNetAliasUpdater_725878312] Id[35]], Sub-client[Name[IcdbNetProcessorSubClientDxD:687418120] Id[36]])]]]
+[2021.11.22 19:14:34] [0596m.20s.400ms] [3] CRT[164]: FREE
+[2021.11.22 19:14:34] [0596m.20s.400ms] [4] CRT[164]: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.400ms] [2] ET: SUSPENDED
+[2021.11.22 19:14:34] [0596m.20s.475ms] [2] CRT[164]: STOP
+[2021.11.22 19:14:34] [0596m.20s.476ms] [3] CST[164]: FREE
+[2021.11.22 19:14:34] [0596m.20s.476ms] [4] CST[164]: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.476ms] [2] CST[164]: STOP
+[2021.11.22 19:14:34] [0596m.20s.476ms] [1] SC[164]: WARNING: Session is still active while destroying
+[2021.11.22 19:14:34] [0596m.20s.476ms] [2] SC[164]: Disconnecting from peer
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2021.11.22 19:14:34] [0596m.20s.476ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000010000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000020000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000020000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000010000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000010000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000020000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000020000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.476ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000010000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000010000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000020000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000020000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000030000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000030000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000010000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000010000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000020000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000020000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000030000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000030000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000040000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000040000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000050000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000050000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000060000050.blk\rbcatl.v]
+[2021.11.22 19:14:34] [0596m.20s.477ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000060000050.blk\rbcatl.v] doesn't exist
+[2021.11.22 19:14:34] [0596m.20s.484ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\uids]
+[2021.11.22 19:14:34] [0596m.20s.484ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\uids] exists
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading directory [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000010000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000010000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000020000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\2000000020000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000010000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000010000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000020000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.485ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\4000000020000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000010000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000010000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000020000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000020000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000030000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\6000000030000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000010000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000010000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000020000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.486ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000020000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000030000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000030000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000040000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000040000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000050000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000050000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000060000050.blk\blkatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbblks\8000000060000050.blk\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcatlg\catlgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcatlg\grpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcatlg\grpobj]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcmpcache\cmpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcmpcache\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcmps\cmpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcmps\dxdatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000020000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000020000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\2000000020000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000010000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000010000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.487ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000010000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000020000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000020000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\4000000020000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000010000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000010000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000010000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000020000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000020000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000020000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000030000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000030000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\6000000030000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000010000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000010000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000010000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000020000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000020000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000020000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000030000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000030000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000030000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000040000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000040000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000040000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000050000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000050000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000050000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000060000050.blk\cesatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000060000050.blk\cnfgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.488ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\cdbcnfgs\8000000060000050.blk\varatl.v]
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\oryg]
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s1\uids]
+[2021.11.22 19:14:34] [0596m.20s.489ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2021.11.22 19:14:34] [0596m.20s.489ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Storage Server: Checking existence of file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\uids]
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Storage Server: File [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\uids] exists
+[2021.11.22 19:14:34] [0596m.20s.489ms] [6] iCDB Storage Server: Unloading directory [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\cdbcatlg\catlgatl.v]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\cdbcatlg\grpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\cdbcatlg\grpobj]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\cdbcmpcache\cmpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\cdbcmps\cmpatl.v]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\oryg]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\params]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [6] iCDB Storage Server: Unloading file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\s2\uids]
+[2021.11.22 19:14:34] [0596m.20s.490ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2021.11.22 19:14:34] [0596m.20s.490ms] [3] ET: Discarding pending commands
+[2021.11.22 19:14:34] [0596m.20s.490ms] [3] ET: Resume request
+[2021.11.22 19:14:34] [0596m.20s.490ms] [3] ET: Resume request finished
+[2021.11.22 19:14:34] [0596m.20s.490ms] [2] ET: RESUMED
+[2021.11.22 19:14:34] [0596m.20s.523ms] [0] SD[1]: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[]
+[2021.11.22 19:14:34] [0596m.20s.523ms] [2] SD[1]: Setting status to FINISHED
+[2021.11.22 19:14:34] [0596m.20s.523ms] [7] SD[1]: Sending logout notify: SvrNotifyLogout @ Version[VX.2.7.0] # Id[29961]
+[2021.11.22 19:14:34] [0596m.20s.523ms] [2] SD[1]: Disconnecting from peer
+[2021.11.22 19:14:34] [0596m.20s.523ms] [2] DRT[1]: STOP
+[2021.11.22 19:14:34] [0596m.20s.523ms] [4] DMT: Dispatching command [DiagFinished # Diag Id [1]]
+[2021.11.22 19:14:34] [0596m.20s.523ms] [5] DMT: Trying to remove iCDB Server Monitor [1]
+[2021.11.22 19:14:34] [0596m.20s.523ms] [4] SDL: Removing iCDB Server Monitor [1]
+[2021.11.22 19:14:34] [0596m.20s.524ms] [3] SD[1]: FREE
+[2021.11.22 19:14:34] [0596m.20s.524ms] [3] DRT[1]: FREE
+[2021.11.22 19:14:34] [0596m.20s.524ms] [4] DRT[1]: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.524ms] [3] DST[1]: FREE
+[2021.11.22 19:14:34] [0596m.20s.524ms] [4] DST[1]: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.524ms] [2] DST[1]: EXIT graceful
+[2021.11.22 19:14:34] [0596m.20s.524ms] [2] DST[1]: STOP
+[2021.11.22 19:14:34] [0596m.20s.524ms] [4] SDL: iCDB Server Monitor [1] removed
+[2021.11.22 19:14:34] [0596m.20s.524ms] [1] DMT: Removed iCDB Server Monitor [1]
+[2021.11.22 19:14:34] [0596m.20s.536ms] [2] PrjBackupEngine: STOP
+[2021.11.22 19:14:34] [0596m.20s.561ms] [3] PrjBackupEngine: FREE
+[2021.11.22 19:14:34] [0596m.20s.561ms] [4] PrjBackupEngine: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.561ms] [3] ET: FREE
+[2021.11.22 19:14:34] [0596m.20s.561ms] [2] ET: STOP
+[2021.11.22 19:14:34] [0596m.20s.561ms] [4] ET: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.561ms] [2] SCL: Stopping all send threads
+[2021.11.22 19:14:34] [0596m.20s.561ms] [3] CMT: FREE
+[2021.11.22 19:14:34] [0596m.20s.561ms] [4] CMT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.584ms] [2] CMT: STOP
+[2021.11.22 19:14:34] [0596m.20s.602ms] [3] DMT: FREE
+[2021.11.22 19:14:34] [0596m.20s.602ms] [4] DMT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.602ms] [2] DMT: STOP
+[2021.11.22 19:14:34] [0596m.20s.609ms] [3] DFAMT: FREE
+[2021.11.22 19:14:34] [0596m.20s.609ms] [4] DFAMT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.637ms] [2] DFAMT: Filer project path [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database] access monitoring ended
+[2021.11.22 19:14:34] [0596m.20s.637ms] [2] DFAMT: STOP
+[2021.11.22 19:14:34] [0596m.20s.639ms] [4] DFAMT: FINISHED
+[2021.11.22 19:14:34] [0596m.20s.639ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2021.11.22 19:14:34] [0596m.20s.639ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.666ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2021.11.22 19:14:34] [0596m.20s.666ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2021.11.22 19:14:34] [0596m.20s.670ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2021.11.22 19:14:34] [0596m.20s.670ms] [4] DMT: FINISHED
+[2021.11.22 19:14:34] [0596m.20s.670ms] [2] SCL: Removing all clients
+[2021.11.22 19:14:34] [0596m.20s.670ms] [2] iCDB Server PI: Unloading observers
+[2021.11.22 19:14:34] [0596m.20s.670ms] [2] iCDB Server PI: Observers unloaded
+[2021.11.22 19:14:34] [0596m.20s.670ms] [0] iCDB Server PI: Closing plugins
+[2021.11.22 19:14:34] [0596m.20s.670ms] [2] iCDB Server PI: Closing PIM plugin
+[2021.11.22 19:14:34] [0596m.20s.670ms] [5] iCDB PIM Wrapper: FREE
+[2021.11.22 19:14:34] [0596m.20s.670ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2021.11.22 19:14:34] [0596m.20s.670ms] [5] iCDB ENetGen Wrapper: FREE
+[2021.11.22 19:14:34] [0596m.20s.670ms] [0] iCDB Server PI: Plugins closed
+[2021.11.22 19:14:34] [0596m.20s.670ms] [0] iCDB Server PI: Unloading database
+[2021.11.22 19:14:34] [0596m.20s.670ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2021.11.22 19:14:34] [0596m.20s.670ms] [6] iCDB Storage Server: Saving all modified files
+[2021.11.22 19:14:34] [0596m.20s.670ms] [7] SingleFile: [5e89-f4bf-2114-1ea4] RTS: switched to: [1]
+[2021.11.22 19:14:34] [0596m.20s.670ms] [0] iCDB Server PI: Saving storage
+[2021.11.22 19:14:34] [0596m.20s.670ms] [6] iCDB Storage Server: Saving all modified files
+[2021.11.22 19:14:34] [0596m.20s.670ms] [7] SingleFile: [5e89-f4bf-2114-1ea4] RTS: switched to: [1]
+[2021.11.22 19:14:34] [0596m.20s.670ms] [0] iCDB Server PI: Closing database
+[2021.11.22 19:14:34] [0596m.20s.671ms] [7] Holes::writing holes [2] prev [0] from [268204] 
+[2021.11.22 19:14:34] [0596m.20s.671ms] [7] Holes::write <35948,36075>
+[2021.11.22 19:14:34] [0596m.20s.671ms] [7] Holes::write <42604,42859>
+[2021.11.22 19:14:34] [0596m.20s.673ms] [7] Holes have been successfully saved 2 CRC [2927174844]
+[2021.11.22 19:14:34] [0596m.20s.673ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2021.11.22 19:14:34] [0596m.20s.673ms] [1] iCDB Server PI: Stats: Database file size [268224 (261.9 kB)]
+[2021.11.22 19:14:34] [0596m.20s.673ms] [7] Holes::writing holes [2] prev [2] from [268220] 
+[2021.11.22 19:14:34] [0596m.20s.673ms] [7] Holes::write <35948,36075>
+[2021.11.22 19:14:34] [0596m.20s.673ms] [7] Holes::write <42604,42859>
+[2021.11.22 19:14:34] [0596m.20s.674ms] [7] Holes have been successfully saved 2 CRC [2927174844]
+[2021.11.22 19:14:34] [0596m.20s.675ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[00000000] transporter[00000000]) -- isModified[0] upgradeFlag[0]
+[2021.11.22 19:14:34] [0596m.20s.675ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2021.11.22 19:14:34] [0596m.20s.675ms] [3] iCDB Storage Server: FREE
+[2021.11.22 19:14:34] [0596m.20s.675ms] [3] iCDB Storage Server Save Thread: FREE
+[2021.11.22 19:14:34] [0596m.20s.675ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.675ms] [2] iCDB Storage Server Save Thread: STOP
+[2021.11.22 19:14:34] [0596m.20s.675ms] [3] iCDB Storage Server Backup Thread: FREE
+[2021.11.22 19:14:34] [0596m.20s.675ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.675ms] [2] iCDB Storage Server Backup Thread: STOP
+[2021.11.22 19:14:34] [0596m.20s.689ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\icdb.dat]
+[2021.11.22 19:14:34] [0596m.20s.689ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\icdb.dat] restrained
+[2021.11.22 19:14:34] [0596m.20s.690ms] [0] iCDB Server PI: Database closed
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [108434] ticks
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [10843] microseconds
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [15]
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1383] commands per second
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: Mem[33423360]
+[2021.11.22 19:14:34] [0596m.20s.690ms] [1] iCDB Server PI: Stats: MemPeak[46546944]
+[2021.11.22 19:14:34] [0596m.20s.691ms] [0] Single file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\icdb.dat] closed with size [268224 (261.9 kB)]
+[2021.11.22 19:14:34] [0596m.20s.697ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2021.11.22 19:14:34] [0596m.20s.697ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\..\lib\ENetGen70.dll]
+[2021.11.22 19:14:34] [0596m.20s.702ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\..\lib\PIM.dll]
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] ST: FREE
+[2021.11.22 19:14:34] [0596m.20s.705ms] [4] ST: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.705ms] [2] ST: STOP
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] MET: FREE
+[2021.11.22 19:14:34] [0596m.20s.705ms] [4] MET: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.705ms] [2] MET: STOP
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] MCE: FREE
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] ELMT: FREE
+[2021.11.22 19:14:34] [0596m.20s.705ms] [4] ELMT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.705ms] [2] ELMT: STOP
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] EventLogDataFile: EventLog data file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\cdbsvr\events\events.dat] closed
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] EventLogIndexFile: EventLog index file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\cdbsvr\events\events.idx] closed
+[2021.11.22 19:14:34] [0596m.20s.705ms] [4] ELMT: FINISHED
+[2021.11.22 19:14:34] [0596m.20s.705ms] [3] AT: FREE
+[2021.11.22 19:14:34] [0596m.20s.705ms] [4] AT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.721ms] [2] AT: Removing server address file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\cdbsvr\sAddress.adr]
+[2021.11.22 19:14:34] [0596m.20s.721ms] [0] AT: ERROR: Could not remove server address file [C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database\cdbsvr\sAddress.adr]
+[2021.11.22 19:14:34] [0596m.20s.721ms] [2] AT: STOP
+[2021.11.22 19:14:34] [0596m.20s.722ms] [3] BT: FREE
+[2021.11.22 19:14:34] [0596m.20s.722ms] [4] BT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.730ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[1653-cec1-e15a-fe8c-5989-b91b-989b-9160-c590-504f-df5e-6f09] Command number[354375]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[b662-6b54-a351-1d3b-6ad5-491c-ad54-9160-4d41-504f-df5e-6f09] Address[Host[DESKTOP-BQLJK8H] Port[10003]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[C:\PADS Projects\DxProjects\Diseño_Final_FRHR\database] ReadOnly[FALSE] Server GUID[1653-cec1-e15a-fe8c-5989-b91b-989b-9160-c590-504f-df5e-6f09]] # Status [Shutdown]
+[2021.11.22 19:14:34] [0596m.20s.730ms] [2] BT: STOP
+[2021.11.22 19:14:34] [0596m.20s.731ms] [3] MWT: FREE
+[2021.11.22 19:14:34] [0596m.20s.731ms] [4] MWT: Waiting for finish
+[2021.11.22 19:14:34] [0596m.20s.731ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.22 19:14:34] [0596m.20s.733ms] [0] MWT: STOP
+[2021.11.22 19:14:34] [0596m.20s.733ms] [0] S: STOP
+[2021.11.22 19:14:34] [0596m.20s.733ms] [3] S: FREE
+[2021.11.22 19:14:34] [0596m.20s.733ms] [3] S: FREE: Server implementation
+[2021.11.22 19:14:34] [0596m.20s.733ms] [3] CLSVRM: FREE

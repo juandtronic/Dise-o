@@ -1,0 +1,3 @@
+[2022-04-29 04.15.31] Successfully created [Database Upgrade] backup [2022-04-29 04.15.31 - upgrade.zip] requested by [DANIELS-PC:MSI].
+[2022-04-29 04.15.31] Migrated iCDB content backup file [cdbback\2022-04-29 04.15.31-21400.zip] removed.
+[2022-04-29 04.15.32] Successfully created [AutoSave] backup [2022-04-29 04.15.31 - auto.zip] requested by [DANIELS-PC:MSI].

@@ -1,0 +1,94 @@
+** ECO In Report **
+
+Wed Nov 17 11:58:14 2021
+
+Input  File : C:\PADS Projects\DxProjects\Diseño_Final_FRHR\Schematic1.eco
+Current Job : 2Final.pcb
+
+
+
+Line 6 , Section *PART*
+C10  CAP_NP
+* Failed to get NS from library
+
+Line 10 , Section *NET*
+C10.2
+* Part name C10 not found
+
+Line 16 , Section *NET*
+C10.1
+* Part name C10 not found
+
+Line 21 , Section *DEL_ATTRIBUTE*
+"STATUS"
+* WARNING: Processing command to delete attribute "STATUS" from Component K1.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 22 , Section *DEL_ATTRIBUTE*
+"TIMESTAMP"
+* WARNING: Processing command to delete attribute "TIMESTAMP" from Component K1.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 25 , Section *DEL_ATTRIBUTE*
+"STATUS"
+* WARNING: Processing command to delete attribute "STATUS" from Component K2.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 26 , Section *DEL_ATTRIBUTE*
+"TIMESTAMP"
+* WARNING: Processing command to delete attribute "TIMESTAMP" from Component K2.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 29 , Section *DEL_ATTRIBUTE*
+"STATUS"
+* WARNING: Processing command to delete attribute "STATUS" from Component K3.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 30 , Section *DEL_ATTRIBUTE*
+"TIMESTAMP"
+* WARNING: Processing command to delete attribute "TIMESTAMP" from Component K3.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 33 , Section *DEL_ATTRIBUTE*
+"STATUS"
+* WARNING: Processing command to delete attribute "STATUS" from Component K4.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 34 , Section *DEL_ATTRIBUTE*
+"TIMESTAMP"
+* WARNING: Processing command to delete attribute "TIMESTAMP" from Component K4.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 37 , Section *DEL_ATTRIBUTE*
+"STATUS"
+* WARNING: Processing command to delete attribute "STATUS" from Component K5.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 38 , Section *DEL_ATTRIBUTE*
+"TIMESTAMP"
+* WARNING: Processing command to delete attribute "TIMESTAMP" from Component K5.
+*          The attribute is also inherited from Decal RLY_AZ921.
+*          The change is not fully reconciled for cases where the schematic
+*          does not support hierarchical attributes.
+
+Line 177 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C10
+* Incorrect object name : C10
